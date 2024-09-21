@@ -1,0 +1,25 @@
+<svg width="191" height="191" viewBox="0 0 191 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_7_2)">
+        <g clip-path="url(#clip1_7_2)">
+            <rect x="4" y="4" width="183" height="183" rx="32.1636" fill="url(#paint0_linear_7_2)" />
+            <line x1="244.452" y1="12.1822" x2="17.9893" y2="238.645" stroke="white" stroke-width="14" />
+            <line x1="148.412" y1="-22.2431" x2="-78.0502" y2="204.219" stroke="white" stroke-width="14" />
+            <ellipse cx="31.7881" cy="167.788" rx="49.349" ry="49.3467" transform="rotate(134.826 31.7881 167.788)"
+                fill="white" />
+        </g>
+        <rect x="9.435" y="9.435" width="172.13" height="172.13" rx="26.7286" stroke="white" stroke-width="10.87" />
+    </g>
+    <rect x="2" y="2" width="187" height="187" rx="34.15" stroke="#355FAC" stroke-width="4" />
+    <defs>
+        <linearGradient id="paint0_linear_7_2" x1="95.5" y1="4" x2="95.5" y2="187" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#538ACA" />
+            <stop offset="1" stop-color="#04187C" />
+        </linearGradient>
+        <clipPath id="clip0_7_2">
+            <rect x="4" y="4" width="183" height="183" rx="32.15" fill="white" />
+        </clipPath>
+        <clipPath id="clip1_7_2">
+            <rect x="4" y="4" width="183" height="183" rx="32.1636" fill="white" />
+        </clipPath>
+    </defs>
+</svg>

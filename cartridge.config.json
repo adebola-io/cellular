@@ -1,0 +1,5 @@
+{
+  "port": 3145,
+  "base": "/",
+  "router": "source/router.ts"
+}
